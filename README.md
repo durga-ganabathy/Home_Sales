@@ -1,10 +1,10 @@
 # Home_Sales
 Result : 
-# ***The cached runtime is 0.33 seconds and the uncached runtime is 0.57 seconds. By comparing the runtime of the code with and without caching, we can see the potential performance improvement gained from caching.***
+# #**The cached runtime is 0.33 seconds and the uncached runtime is 0.57 seconds. By comparing the runtime of the code with and without caching, we can see the potential performance improvement gained from caching.**
 
-# ***The parquet runtime is 0.44 seconds and the cached runtime is 0.33 seconds. The time it takes to read data from a Parquet file is slightly higher than cached runtime.***
+# #***The parquet runtime is 0.44 seconds and the cached runtime is 0.33 seconds. The time it takes to read data from a Parquet file is slightly higher than cached runtime.***
 
-# ***Enabling caching resulted in a notable improvement in runtime compared to the uncached version and parquet version of the code***
+# #***Enabling caching resulted in a notable improvement in runtime compared to the uncached version and parquet version of the code***
 
 # Instructions
 Renamed the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
